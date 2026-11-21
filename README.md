@@ -1,89 +1,157 @@
 
-<!-- ========================================= -->
-<!--          KISHOR BISWAS - PROFILE          -->
-<!-- ========================================= -->
+<!--
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  KISHOR BISWAS — PERSONAL GITHUB EXPERIENCE
+  Design: Editorial Minimalism
+  Theme: Black / Silver / Monochrome
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090909,50:242424,100:555555&text=KISHOR%20BISWAS&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=UI%2FUX%20DESIGNER%20%20%7C%20%20WEB%20DESIGNER%20%20%7C%20%20DEVELOPER&descAlignY=62&descSize=13&animation=fadeIn" width="100%" />
+<!-- CINEMATIC HERO -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:171717,70:343434,100:090909&text=KISHOR%20BISWAS&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=DESIGN%20%20%E2%80%A2%20%20CREATE%20%20%E2%80%A2%20%20INNOVATE&descSize=13&descAlignY=62&animation=fadeIn" />
 
 <br/>
 
-<a href="https://ns-kishor.me">
-<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000" />
-</a>
-<a href="https://github.com/ns-kishor">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=2800&pause=1000&color=B8B8B8&center=true&vCenter=true&width=650&lines=UI%2FUX+DESIGNER+%26+WEB+DESIGNER;FRONTEND+DEVELOPMENT+ENTHUSIAST;CRAFTING+DIGITAL+EXPERIENCES;DESIGNING+WITH+PURPOSE." alt="Animated introduction" />
 
 <br/><br/>
 
-**I design interfaces. I build experiences. I turn ideas into reality.**
-
-*Crafting meaningful digital experiences through design and technology.*
+<p>
+  <a href="https://ns-kishor.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=safari&logoColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ns-kishor">
+    <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
+  </a>
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ns-kishor&label=PROFILE%20VIEWS&color=777777&style=flat-square" />
+<sub>INDEPENDENT DESIGNER · DIGITAL CREATOR · BANGLADESH</sub>
+
+<br/><br/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
+<!-- 01 / INTRODUCTION -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=ABOUT%20ME&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<div align="center">
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=ns-kishor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" />
+## 01 — THE DESIGNER
 
-Hey! I'm **Kishor Biswas**, a creative UI/UX Designer and Web Designer with a growing passion for Frontend Development.
+### Turning ideas into digital experiences.
 
-I love transforming complex ideas into simple, elegant, and user-friendly digital experiences.
+</div>
 
-- 🎨 UI/UX & Interface Design
-- 🖥️ Modern Web Design
-- 💻 Frontend Development
-- ✦ Creative Problem Solving
-- 🚀 Digital Product Innovation
+I'm **Kishor Biswas** — a UI/UX Designer, Web Designer and aspiring Frontend Developer passionate about creating meaningful digital experiences.
 
-<br clear="right"/>
+I believe great digital products should feel as good as they look. My approach combines visual aesthetics, usability, creative thinking and technology.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**DESIGN PHILOSOPHY**
+
+Less, but better.
+
+I value clarity, simplicity, consistency and intentional design decisions.
+
+</td>
+<td width="50%" valign="top">
+
+**DEVELOPMENT APPROACH**
+
+Build with purpose.
+
+I enjoy transforming creative concepts into responsive and functional web experiences.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+`DESIGN THINKING` &nbsp; / &nbsp; `CREATIVE EXPLORATION` &nbsp; / &nbsp; `CONTINUOUS LEARNING`
+
+</div>
 
 ---
 
-<!-- EXPERTISE -->
+<!-- 02 / EXPERTISE -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=WHAT%20I%20DO&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<div align="center">
 
-<table width="100%">
+## 02 — WHAT I DO
+
+*Three disciplines. One creative vision.*
+
+</div>
+
+<table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🎨
+<div align="center">
 
-**UI/UX DESIGN**
+<img src="https://img.icons8.com/ios/100/ffffff/design.png" width="42"/>
 
-User Research · Wireframes · Prototypes · Design Systems
+### UI / UX
+
+</div>
+
+- Interface Design
+- User Experience
+- Wireframing
+- Prototyping
+- Design Systems
+- Visual Hierarchy
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### ✨
+<div align="center">
 
-**WEB DESIGN**
+<img src="https://img.icons8.com/ios/100/ffffff/web.png" width="42"/>
 
-Visual Design · Responsive Layout · Landing Pages · Interaction
+### WEB DESIGN
+
+</div>
+
+- Website Design
+- Landing Pages
+- Responsive Layouts
+- Visual Design
+- Interaction Design
+- Design Consistency
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 💻
+<div align="center">
 
-**DEVELOPMENT**
+<img src="https://img.icons8.com/ios/100/ffffff/code.png" width="42"/>
 
-HTML · CSS · JavaScript · Git · Responsive Websites
+### DEVELOPMENT
+
+</div>
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Development
+- Git & GitHub
+- Frontend Exploration
 
 </td>
 </tr>
@@ -91,78 +159,122 @@ HTML · CSS · JavaScript · Git · Responsive Websites
 
 ---
 
-<!-- TECH STACK -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=TECH%20STACK%20%26%20TOOLS&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<!-- 03 / TECHNOLOGY -->
 
 <div align="center">
 
-### Design & Creative Tools
+## 03 — TOOLS & TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=figma,xd,blender,ps,ai" />
+*The tools behind my creative process.*
 
-### Frontend Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+### DESIGN & CREATIVE
 
-### Development Tools
+<img src="https://skillicons.dev/icons?i=figma,xd,blender,ps,ai&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git,vercel" />
+<br/><br/>
+
+### FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" />
+
+<br/><br/>
+
+### WORKFLOW & TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,python&theme=dark" />
+
+<br/><br/>
 
 </div>
 
+> My technology stack is continuously evolving. My current focus is strengthening frontend development alongside my design practice.
+
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- 04 / SELECTED WORK -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=FEATURED%20PROJECTS&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<div align="center">
+
+## 04 — SELECTED WORK
+
+### A selection of things I've designed and built.
+
+*Exploration, experimentation and execution.*
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍️ Lax Pixel
+<a href="https://lax-pixel-opal.vercel.app">
+<img width="100%" src="https://placehold.co/700x400/111111/FFFFFF/png?text=LAX+PIXEL" />
+</a>
 
-Multi-vendor e-commerce platform focused on fashion and lifestyle.
+### 01 / LAX PIXEL
 
-**Focus:** Product Design · E-commerce · UX
+**Multi-vendor E-commerce**
 
-[View Live ↗](https://lax-pixel-opal.vercel.app)
+A fashion and lifestyle marketplace focused on a modern shopping experience.
+
+`E-COMMERCE` `PRODUCT DESIGN` `UX`
+
+[EXPLORE PROJECT ↗](https://lax-pixel-opal.vercel.app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ FocusFlow AI
+<a href="https://focusflow-ai-demo.netlify.app">
+<img width="100%" src="https://placehold.co/700x400/111111/FFFFFF/png?text=FOCUSFLOW+AI" />
+</a>
 
-A modern productivity platform concept.
+### 02 / FOCUSFLOW AI
 
-**Focus:** UI Design · Product Experience
+**Productivity Experience**
 
-[View Project ↗](https://focusflow-ai-demo.netlify.app)
+A digital productivity concept designed around focus and workflow.
+
+`PRODUCT DESIGN` `UI DESIGN` `WEB`
+
+[EXPLORE PROJECT ↗](https://focusflow-ai-demo.netlify.app)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Next Step
+<a href="https://etarnity.com">
+<img width="100%" src="https://placehold.co/700x400/111111/FFFFFF/png?text=ETARNITY" />
+</a>
 
-A personal technology and digital innovation brand.
+### 03 / ETARNITY
 
-**Focus:** Branding · Web Experience
+**Business & Technology**
 
-[Explore ↗](https://ns-kishor.me)
+A digital business presence focused on technology and innovation.
+
+`WEB DESIGN` `BRANDING` `DIGITAL`
+
+[EXPLORE PROJECT ↗](https://etarnity.com)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Etarnity
+<a href="https://ns-kishor.me">
+<img width="100%" src="https://placehold.co/700x400/111111/FFFFFF/png?text=NEXT+STEP" />
+</a>
 
-A modern business and technology platform.
+### 04 / NEXT STEP
 
-**Focus:** Web Design · Digital Solutions
+**Personal Technology Brand**
 
-[Explore ↗](https://etarnity.com)
+A creative technology identity exploring digital products and innovation.
+
+`BRANDING` `DESIGN` `TECHNOLOGY`
+
+[EXPLORE PROJECT ↗](https://ns-kishor.me)
 
 </td>
 </tr>
@@ -170,50 +282,88 @@ A modern business and technology platform.
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=GITHUB%20ANALYTICS&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<!-- 05 / GITHUB STATISTICS -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ns-kishor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" />
+## 05 — GITHUB ACTIVITY
+
+*Consistency is part of the craft.*
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ns-kishor&bg_color=0d1117&color=ffffff&line=8c8c8c&point=ffffff&area=true&area_color=555555&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ns-kishor&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=c9d1d9&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns-kishor&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ns-kishor&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" />
+<img width="80%" src="https://streak-stats.demolab.com?user=ns-kishor&theme=transparent&hide_border=true&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=777777" />
+
+<br/>
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=45&color=0d1117&text=LET'S%20CONNECT&fontColor=ffffff&fontSize=19&fontAlign=8" width="100%" />
+<!-- 06 / PERSONAL PRINCIPLES -->
 
 <div align="center">
 
-### Have an idea? Let's build something meaningful.
+## 06 — THE WAY I THINK
+
+<br/>
+
+### "Good design is not decoration.
+
+### It's the art of making complexity feel simple."
+
+<br/>
+
+<sub>SIMPLICITY · CLARITY · FUNCTIONALITY · INNOVATION</sub>
+
+</div>
+
+---
+
+<!-- 07 / CONTACT -->
+
+<div align="center">
+
+## 07 — LET'S CONNECT
+
+### Have an interesting idea?
+
+### Let's make something meaningful.
+
+<br/>
 
 <a href="https://ns-kishor.me">
-<img src="https://img.shields.io/badge/Explore%20My%20Portfolio-FFFFFF?style=for-the-badge&logo=safari&logoColor=black" />
-</a>
-
-<a href="https://github.com/ns-kishor">
-<img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-FFFFFF?style=for-the-badge&logo=safari&logoColor=000000" />
 </a>
 
 <br/><br/>
 
-**DESIGNED WITH PURPOSE · BUILT WITH PASSION**
+<a href="https://github.com/ns-kishor">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<sub>© Kishor Biswas · Bangladesh</sub>
+<br/><br/>
+
+<sub>BASED IN BANGLADESH · AVAILABLE FOR CREATIVE COLLABORATIONS</sub>
+
+<br/><br/>
+
+**DESIGNED WITH INTENTION. BUILT WITH CURIOSITY.**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:303030,100:050505&height=130&section=footer" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,50:242424,100:090909&height=120&section=footer" width="100%" />
-
-<!-- ========================================= -->
-<!--                 END                       -->
-<!-- ========================================= -->
+<!-- END OF PROFILE -->
